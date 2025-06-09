@@ -1,0 +1,13 @@
+#Group 11: JT Ellis, Dyllan Thomas
+
+List of classes in ensrooms:
+{'CS 4063': (datetime.time(12, 30), datetime.time(14, 30)), 'CS 1043': (datetime.time(9, 30), datetime.time(11, 0)), 'CS 3353': (datetime.time(11, 0), datetime.time(12, 0)), 'CS 3003': (datetime.time(8, 15), datetime.time(11, 30)), 'CS 4253': (datetime.time(12, 0), datetime.time(16, 0)), 'CS 4013': (datetime.time(13, 0), datetime.time(14, 45)), 'CS 4163': (datetime.time(14, 0), datetime.time(16, 30)), 'CS 2003': (datetime.time(10, 30), datetime.time(12, 0)), 'CS 4123': (datetime.time(14, 0), datetime.time(15, 0)), 'CS 2123': (datetime.time(11, 15), datetime.time(12, 45))}
+
+Test with no rooms:
+Not enough rooms
+
+Test with sufficient rooms:
+{'KEH M1': ['CS 1043', 'CS 3353', 'CS 4063'], 'KEH U2': ['CS 4163'], 'KEH U1': ['CS 3003', 'CS 4253'], 'KEH M3': ['CS 2123', 'CS 4123'], 'KEH M2': ['CS 2003', 'CS 4013']}
+
+Test with insufficient rooms, but more than zero:
+Not enough rooms
